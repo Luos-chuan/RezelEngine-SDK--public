@@ -8,7 +8,7 @@
   Use the C++ to write the code(*C++17*)
   Use the OpenGL and GLFW to draw the window
 ---
-- Support:
+- Support(Maybe I will use Availonia to create editor, So this is not a project filled with c++):
 
 | ***Window*** | **Linux**(None support) | MacOS |
 | --- | --- | --- |
