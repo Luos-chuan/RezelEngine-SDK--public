@@ -1,4 +1,4 @@
-# Rezel Engine 1.0.0(Beta)
+# Rezel Engine
 *SDK, not Source code, MIT*
 ---
 - **This project haven't done(Just Beta)**
@@ -6,7 +6,8 @@
   **This project API will be change**
 - This GameEngine is for 2D
   Use the C++ to write the code(*C++17*)
-  Use the OpenGL and GLFW to draw the window
+  Use the OpenGL and SDL3 to draw the window
+  Use the spdlog to give logger
 ---
 - Support(Maybe I will use Availonia to create editor, So this is not a project filled with c++):
 
